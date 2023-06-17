@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Lora&display=swap');
+
+body{
+    background-color: #e8ebed;
+}
+
+header{
+
+}
+
+main{
+    margin-bottom: 100px;
+    width: 80%;
+    margin: auto ;    
+}   
+
+.titulo{
+    font-family: 'Lora', serif;
+    font-size: 330%;
+    text-align: center;
+
+ 
+}
+
+.imagenfooter{   
+    width: 85px;
+    height: 90px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+h3{
+    font-family: 'Libre Baskerville', serif;
+    color: blue;
+   margin-top: 5%;
+}
+
+p{
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 3px;
+}
+
+h2{
+    font-family: 'Lora', serif;
+    font-size: 200%;
+}
+
+h4{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 100%;
+    margin-top: 2%;
+}
+
+h5{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 85%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    color: #c10b0b;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    min-height: 300px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    padding: 32px;
+    border-radius: 10px;
+}
+
+.row {
+    background-color: rgb(132, 220, 241);
+    margin-bottom: 100px;
+    width: 80%;
+    margin: auto ; 
+}
+
+.col {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 100px;
+    width: 80%;
+    margin: auto ; 
+    padding: 16px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+input {
+    padding: 5px;
+
+}
+
+button {
+    padding: 2px;
+   
+}
+
+button:hover {
+    background-color: rgb(198, 241, 197);
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+
+}
+
